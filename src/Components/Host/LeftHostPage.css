@@ -1,0 +1,99 @@
+.MainHostPageContainer {
+  display: flex;
+}
+
+.HostPageLeftMainContainer {
+  width: 45%;
+  border: 1px solid white;
+  margin-left: 5%;
+  margin-top: 5%;
+  height: 600px;
+  background-color: rgba(30, 30, 30, 0.707);
+  border-radius: 12px;
+}
+
+.HostLeftPageCheckbox {
+  padding-left: 10%;
+  padding-top: 5%;
+}
+
+.HostLeftPageCheckbox input {
+  background-color: rgba(30, 30, 30, 0.707);
+}
+
+.HostLeftPageCheckbox div {
+  margin-left: 2%;
+  font-size: 10px;
+  display: inline;
+}
+
+.HostLeftPageCheckbox div input {
+  margin-right: 3px;
+  background-color: rgba(30, 30, 30, 0.707);
+}
+
+p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+label {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* 
+nifsnf */
+
+.HostRightPageFilterselection {
+  margin-left: 10px;
+  background-color: rgb(29, 29, 31, 255);
+  width: 60%;
+  padding: 5px;
+  border-radius: 7px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.HostPageRightMainContainer {
+  width: 40%;
+  border: 1px solid white;
+  margin-left: 5%;
+  margin-top: 5%;
+  height: 600px;
+  background-color: rgba(30, 30, 30, 0.707);
+  border-radius: 12px;
+}
+
+.HostPageRightMainContainer {
+  padding-left: 10%;
+  padding-top: 2%;
+}
+
+.HostPageRightMainContainer input {
+  width: 60%;
+  height: 50px;
+  background-color: rgba(30, 30, 30, 0.707);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.HostPageRightMainContainer input,
+select {
+  margin-bottom: 5%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.HostPageRightMainContainer p {
+  margin-bottom: 2%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.HostRightpagebtn {
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  font-size: 16px;
+  margin-left: 15%;
+  letter-spacing: 1px;
+  border-radius: 8px;
+  width: 25%;
+  height: 40px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}

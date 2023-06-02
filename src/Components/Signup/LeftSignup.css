@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-image: linear-gradient(to left, black, rgba(19, 18, 18, 0.774));
+}
+
+.SignupPageRightSide-Container {
+  padding-top: 5%;
+  box-sizing: border-box;
+  height: 620px;
+  width: 40%;
+  /* border: 1px solid white; */
+}
+.SignupPageRightSide-Container .SignupPageimage-card {
+  width: 60%;
+  height: 450px;
+  /* border: 1px solid white; */
+  margin-left: 0%;
+  border-radius: 10px;
+}
+
+.SignupPageimage-card img {
+  /* border: 1px solid white; */
+  border-radius: 10px;
+  /* width: 400px;
+  height: 530px; */
+  height: 100%;
+  width: 100%;
+}

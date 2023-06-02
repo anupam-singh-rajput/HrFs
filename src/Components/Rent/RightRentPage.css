@@ -1,0 +1,109 @@
+.main-container {
+  width: 35%;
+  margin-right: 1%;
+  margin-left: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  /* border: 1px solid black; */
+}
+.RentPageTitle {
+  margin-top: 3%;
+  margin-left: 5%;
+  font-size: 34px;
+  letter-spacing: 2px;
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Filter {
+  border-radius: 12px;
+  margin-top: 2%;
+  width: 100%;
+  background-color: rgba(10, 10, 10, 0.514);
+  /* background-color: rgb(29, 29, 31, 255); */
+  /* border: 1px solid white; */
+  padding: 10%;
+}
+
+.Pname {
+  font-size: 22px;
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Ftitle {
+  font-weight: 400;
+  letter-spacing: 3px;
+  font-size: 30px;
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  width: 70%;
+  float: right;
+}
+
+input[type="range"] {
+  width: 80%;
+  color: blueviolet;
+}
+
+.f-btn {
+  width: 70px;
+  color: black;
+  background: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+label {
+  font-size: 14px;
+  margin-right: 5%;
+}
+.Exception-label {
+  font-size: 22px;
+}
+
+.Filterselection {
+  margin-left: 10px;
+  background-color: rgb(29, 29, 31, 255);
+  width: 60%;
+  padding: 5px;
+  border-radius: 7px;
+}
+
+.submit-btn {
+  border-radius: 7px;
+  font-size: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: white;
+  color: #088a98;
+  font-weight: bold;
+  width: 70px;
+  height: 35px;
+  margin-left: 30%;
+  padding-bottom: 5px;
+}
+
+/* 
+.rangeslider {
+  width: 50%;
+}
+
+.myslider {
+  -webkit-appearance: none;
+  background: #fcf3cf;
+  width: 50%;
+  height: 20px;
+  opacity: 2;
+}
+
+.myslider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  cursor: pointer;
+  background: #34495e;
+  width: 5%;
+  height: 20px;
+}
+
+.myslider:hover {
+  opacity: 1;
+} */

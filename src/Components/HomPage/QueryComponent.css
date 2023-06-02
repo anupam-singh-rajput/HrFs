@@ -1,0 +1,26 @@
+.RighHelpPageFormMainContaner {
+  border: 1px solid white;
+  width: 80%;
+  height: 70px;
+  border-radius: 12px;
+  text-align: center;
+  padding-top: 3%;
+  background-color: rgba(30, 30, 30, 0.707);
+  margin-top: 3%;
+}
+.RighHelpPageFormMainContaner p {
+  width: 70%;
+  float: left;
+}
+
+.HelpPageAnswerSection {
+  background-color: white;
+  color: black;
+  padding: 10%;
+  margin-left: 35%;
+  border-radius: 12px;
+  visibility: hidden;
+  display: none;
+}
+
+

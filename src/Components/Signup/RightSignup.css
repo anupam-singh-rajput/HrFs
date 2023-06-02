@@ -1,0 +1,104 @@
+.MainContainer {
+  display: flex;
+}
+.RightSignupMainContainer {
+  margin-top: 5%;
+  margin-left: 10%;
+  margin-bottom: 5%;
+  width: 50%;
+  /* border: 1px solid white; */
+}
+
+.welcomesection h2 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 40px;
+  letter-spacing: 1px;
+}
+
+.logindirect {
+  color: rgb(9, 216, 243);
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.label__input__styler label {
+  font-size: 14px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.RightSignupFormMainContaner {
+  margin-top: 5%;
+  padding-right: 5%;
+}
+
+.label__input__styler input {
+  padding: 8px;
+  width: 80%;
+  height: 50px;
+  border: 1px solid white;
+  border-radius: 14px;
+  font-size: 16px;
+  text-align: center;
+  background-color: rgba(10, 10, 10, 0.514);
+  margin-bottom: 5px;
+}
+.containerforfirstlastname {
+  height: 70px;
+  width: 100%;
+  /* border: 1px solid white; */
+  margin-bottom: 10px;
+}
+
+.containerforfirstlastname .firstName {
+  width: 40%;
+  /* border: 1px solid white; */
+  float: left;
+}
+
+.containerforfirstlastname .firstName label {
+  font-size: 14px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.containerforfirstlastname .firstName input {
+  padding: 8px;
+  width: 90%;
+  height: 50px;
+  border: 1px solid white;
+  border-radius: 14px;
+  font-size: 16px;
+  text-align: center;
+  background-color: rgba(10, 10, 10, 0.514);
+}
+
+.containerforfirstlastname .lastName {
+  width: 45%;
+  /* border: 1px solid white; */
+  float: left;
+}
+
+.containerforfirstlastname .lastName label {
+  font-size: 14px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.containerforfirstlastname .lastName input {
+  padding: 8px;
+  width: 90%;
+  height: 50px;
+  border: 1px solid white;
+  border-radius: 14px;
+  font-size: 16px;
+  text-align: center;
+  background-color: rgba(10, 10, 10, 0.514);
+}
+
+.actions {
+  background-color: rgb(7, 119, 153);
+  margin-top: 5%;
+  margin-left: 25%;
+  font-size: 18px;
+  width: 150px;
+  height: 40px;
+  border-radius: 12px;
+}

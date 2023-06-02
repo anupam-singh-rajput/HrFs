@@ -1,0 +1,10 @@
+.HelpMainContainer {
+  display: flex;
+}
+.RightHelpMainContainer {
+  margin-top: 5%;
+  margin-left: 10%;
+  margin-bottom: 5%;
+  width: 50%;
+  /* border: 1px solid white; */
+}
